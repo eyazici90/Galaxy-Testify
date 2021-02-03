@@ -6,7 +6,7 @@
  - Explicit structure for test suite
  - Naming consistency among tests
  - Fluent extensions for readability (Writing tests like reading book)
- - Object mothers for reducing duplication
+ - Object mothers for reducing duplication (https://martinfowler.com/bliki/ObjectMother.html)
 
 
 ## Samples
