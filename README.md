@@ -1,4 +1,5 @@
 
+
 # Galaxy-Testify
 
 ## Features
@@ -11,3 +12,5 @@
 
 ## Samples
 https://github.com/eyazici90/Galaxy-Testify/tree/main/test/SampleApp.Tests
+
+*Inspired from https://github.com/ChillBDD/Chill*
